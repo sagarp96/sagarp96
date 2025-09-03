@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Rect and other front-end tech. <br><br>with 4+ year of experience. <br><br>with Fron-end stack 
+### Frontend and UI/UX engineer. 
 
 
 # 💻 Tech Stack:
